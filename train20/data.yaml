@@ -1,0 +1,12 @@
+names:
+- Tree
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: tree-xi2i7
+  url: https://universe.roboflow.com/abhi-wj4jv/tree-xi2i7/dataset/1
+  version: 1
+  workspace: abhi-wj4jv
+test: test/images
+train: train/images
+val: valid/images
